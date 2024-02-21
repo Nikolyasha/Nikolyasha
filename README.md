@@ -1,6 +1,6 @@
-# 🏄‍♂️ Forrest Knight
+# 🖥️ Nikolyasha
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Front-End Developer`**
 
 Hello, everyone! I'm Nikolay Sobolev, residing in the vibrant city of Almaty, Kazakhstan. 🌆 As a frontend developer, I specialize in crafting engaging web interfaces that captivate users' attention and enhance their browsing experience. 💻 My expertise spans a variety of languages and technologies, including Angular, TypeScript, JavaScript, C#, ASP.NET, PHP, and SQL, allowing me to bring creativity and functionality to every project.
 
